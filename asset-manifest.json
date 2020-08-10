@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/star_apps_studio/static/css/main.a941f4c9.chunk.css",
-    "main.js": "/star_apps_studio/static/js/main.ca0fcb85.chunk.js",
-    "main.js.map": "/star_apps_studio/static/js/main.ca0fcb85.chunk.js.map",
+    "main.js": "/star_apps_studio/static/js/main.3e8bd9ac.chunk.js",
+    "main.js.map": "/star_apps_studio/static/js/main.3e8bd9ac.chunk.js.map",
     "runtime-main.js": "/star_apps_studio/static/js/runtime-main.a121e02c.js",
     "runtime-main.js.map": "/star_apps_studio/static/js/runtime-main.a121e02c.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/star_apps_studio/static/css/2.f3cffc9e.chunk.css",
     "static/js/2.e2d422cb.chunk.js": "/star_apps_studio/static/js/2.e2d422cb.chunk.js",
     "static/js/2.e2d422cb.chunk.js.map": "/star_apps_studio/static/js/2.e2d422cb.chunk.js.map",
     "index.html": "/star_apps_studio/index.html",
-    "precache-manifest.8cf7834a10753ad2928a8f55f489813f.js": "/star_apps_studio/precache-manifest.8cf7834a10753ad2928a8f55f489813f.js",
+    "precache-manifest.f55da1209a566a53aeef886b5051bd7a.js": "/star_apps_studio/precache-manifest.f55da1209a566a53aeef886b5051bd7a.js",
     "service-worker.js": "/star_apps_studio/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/star_apps_studio/static/css/2.f3cffc9e.chunk.css.map",
     "static/css/main.a941f4c9.chunk.css.map": "/star_apps_studio/static/css/main.a941f4c9.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.f3cffc9e.chunk.css",
     "static/js/2.e2d422cb.chunk.js",
     "static/css/main.a941f4c9.chunk.css",
-    "static/js/main.ca0fcb85.chunk.js"
+    "static/js/main.3e8bd9ac.chunk.js"
   ]
 }
