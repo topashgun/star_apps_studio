@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/star_apps_studio/static/css/main.a941f4c9.chunk.css",
+    "main.js": "/star_apps_studio/static/js/main.ca0fcb85.chunk.js",
+    "main.js.map": "/star_apps_studio/static/js/main.ca0fcb85.chunk.js.map",
+    "runtime-main.js": "/star_apps_studio/static/js/runtime-main.a121e02c.js",
+    "runtime-main.js.map": "/star_apps_studio/static/js/runtime-main.a121e02c.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/star_apps_studio/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.e2d422cb.chunk.js": "/star_apps_studio/static/js/2.e2d422cb.chunk.js",
+    "static/js/2.e2d422cb.chunk.js.map": "/star_apps_studio/static/js/2.e2d422cb.chunk.js.map",
+    "index.html": "/star_apps_studio/index.html",
+    "precache-manifest.247c1de34552d6fd3fbb74ec98e25dc8.js": "/star_apps_studio/precache-manifest.247c1de34552d6fd3fbb74ec98e25dc8.js",
+    "service-worker.js": "/star_apps_studio/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/star_apps_studio/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.a941f4c9.chunk.css.map": "/star_apps_studio/static/css/main.a941f4c9.chunk.css.map",
+    "static/js/2.e2d422cb.chunk.js.LICENSE.txt": "/star_apps_studio/static/js/2.e2d422cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a121e02c.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.e2d422cb.chunk.js",
+    "static/css/main.a941f4c9.chunk.css",
+    "static/js/main.ca0fcb85.chunk.js"
+  ]
+}
