@@ -46,7 +46,7 @@ export default class Task extends Component {
                 <div className="col-10">
                     <div class={`progress`} style={{ height: "100%" }}>
                         <div class={`progress-bar ${this.props.task.status == "done" ? 'bg-success' : this.props.task.status == "started" ? 'progress-bar-striped progress-bar-animated' : 'bg-warning'}`} role="progressbar" style={{ width: this.props.task.status == "started" ? (this.state.currentCount * 5) + "%" : this.props.task.status == "done" ? "100%" : "0%" }} id={this.props.task.task}></div>
-                        <div className={`placeholder ${this.props.task.status == "not_started" ? 'colorBlack' : ''}`}>{this.props.task.status == "started" ? this.state.currentCount + " secs completed || Running on Server " + this.props.task.server : this.props.task.status == "not_started" ? "Waiting" : "Done"}</div>
+                        <div className={`placeholder ${this.props.task.status == "not_started" ? 'colorBlack' : ''}`}>{this.props.task.status == "started" ? this.state.currentCount + " secs completed || Running on Server " + this.props.task.server : this.props.task.status == "not_started" ? "Waiting for server..." : "Done"}</div>
                     </div>
                 </div >
                 <div className="col-2">
