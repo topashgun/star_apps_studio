@@ -14,7 +14,6 @@ export default class Task extends Component {
     componentDidMount() {
         if (this.props.task.status == "started") {
             var intervalId = setInterval(this.timer, 1000);
-            // store intervalId in the state so it can be accessed later:
             this.setState({ intervalId: intervalId });
         }
     }
@@ -32,7 +31,6 @@ export default class Task extends Component {
     }
 
     async timer() {
-        // setState method is used to update the state
         await this.setState({ currentCount: this.state.currentCount + 1 });
         if ((this.state.currentCount) == 20) {
             this.props.finishTask(this.props.task.task);
