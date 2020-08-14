@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import '../App.css';
 import Tasks from './Tasks';
-export default class Body extends Component {
+class Body extends Component {
     constructor() {
         super();
         this.state = {
@@ -110,6 +110,10 @@ export default class Body extends Component {
         }
     }
 
+    componentDidMount() {
+        console.log(this.props.server)
+    }
+
     render() {
         return (
             <div className="container">
@@ -149,3 +153,4 @@ export default class Body extends Component {
         )
     }
 }
+export default Body
